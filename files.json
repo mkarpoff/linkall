@@ -1,0 +1,5 @@
+[
+    {"source":"./path/to/source/file1", "target":"./path/to/target/file1"},
+    {"source":"./path/to/source/file2", "target":"./path/to/target/file2"},
+    {"source":"./path/to/source/file3", "target":"./path/to/target/file3"}
+]
